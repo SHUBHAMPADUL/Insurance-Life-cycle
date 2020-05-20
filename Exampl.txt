@@ -1,0 +1,10 @@
+class Example{
+int a=10;
+int b=20;
+public void m1(){
+sysout("a:"+a);
+sysout("b:"+b);
+Example e=new Example();
+e.m1()
+}
+}
